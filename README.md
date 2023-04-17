@@ -1,7 +1,7 @@
 # About me
 
 * **Work experience:**
-    - **Nekos Project** (2020-202X) - Owner and Main developer.;
+    - **Nekos Project** (2020-202X) - Owner and Main developer.
 
 # My skills
 <p align="center">
