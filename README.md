@@ -3,9 +3,10 @@
 * **Work experience:**
     - **Nekos Project** (2020-202X) - Owner and Main developer.
 
-# My skills
-<p align="center">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=222222" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <hr style="border: 2px solid #B300F7; width: 60%; margin: auto;">
 
-</p>
+  <!-- Discord Section -->
+  <p align="center"><b>Contact with me on Discord</b></p>
+  <a href="https://discordapp.com/users/685340681408872454" target="_blank">
+    <img src="https://discord.c99.nl/widget/theme-3/407242708143570967.png"/>
+  </a>
