@@ -1,7 +1,6 @@
 # About me
 
-* **Work experience:**
-    - **Nekos Project** (2020-202X) - Owner and Main developer.
+* **I LOVE COFFEE**
 
   <hr style="border: 2px solid #B300F7; width: 60%; margin: auto;">
 
